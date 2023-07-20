@@ -19,7 +19,7 @@ def partition(array, low, high):
             ##Intercambiar elementos
             (array[i], array[j]) = (array[j], array[i])
 
-    #Al final intercambiar el pivote
+    #Al final intercambiar el pivote ---
     (array[i+1], array[high]) = (array[high], array[i+1])
 
     #Regresa la posicion final del pivote
