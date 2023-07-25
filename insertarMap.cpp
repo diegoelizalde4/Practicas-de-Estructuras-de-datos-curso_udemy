@@ -1,7 +1,7 @@
 #include <iostream>
 #include <map>
 using namespace std;
-
+//hola
 int main(){
     // identificador, sueldo
     //map<key, value>
